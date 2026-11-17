@@ -1,5 +1,5 @@
 # Appointcure
-![](Screenshots/Screenshot (387).png)
+![Appointcure Screenshot](<Screenshots/Screenshot (387).png>)
 
 ## Overview & Customizations
 **Appointcure** is a customized version of the open-source [edoc-echanneling](https://github.com) project, updated with custom branding, UI refinements, and workflow improvements.
